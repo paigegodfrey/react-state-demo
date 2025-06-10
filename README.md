@@ -1,3 +1,9 @@
+# Lecture notes to self
+
+- Put hearts in a card component with dummy names
+- Have the App level component display the number total number of hearts
+  - Lift the state up to the nearest common parent component (App), then pass the state and the setter function to the child components as props
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
